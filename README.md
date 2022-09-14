@@ -2,7 +2,4 @@
 
 ## Abstract
 
-This project pridominantly focus on Implementing basics of RL (Policy-Iteration and Q-Learning) to affords an itution for further works.
-
-
-
+This project predominantly focuses on Implementing the basics of RL (Policy-Iteration and Q-Learning) to afford intuition for further works.
